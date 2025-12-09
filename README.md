@@ -9,17 +9,28 @@ Bu proje, React Native ve Expo kullanılarak geliştirilmiş bir profil kartı u
 Uygulamada tema değiştirme, özel font kullanımı ve duyarlı (responsive) tasarım özellikleri bulunmaktadır.
 
 Kullanılan Teknolojiler
+
 -React Native
+
 -Expo
+
 -Expo Font
+
 -Ionicons
 
+
 Özellikler
+
 -Açık / Koyu tema desteği
+
 -Google Fonts (Montserrat) kullanımı
+
 -Responsive tasarım (telefon / tablet uyumlu)
+
 -Etkileşimli "Beğen" butonu
+
 -Cross-platform gölge desteği
+
 
 Projeyi Çalıştırma
 
