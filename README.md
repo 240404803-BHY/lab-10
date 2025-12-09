@@ -1,6 +1,7 @@
-Ad: Berk Hakan
-Soyad: Yılmaz
+Ad Soyad: Berk Hakan Yılmaz
+
 Okul No: 240404803
+
 
 Profile Card App
 
