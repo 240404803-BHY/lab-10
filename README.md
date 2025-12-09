@@ -3,12 +3,12 @@ Ad Soyad: Berk Hakan Yılmaz
 Okul No: 240404803
 
 
-Profile Card App
+##Profile Card App
 
 Bu proje, React Native ve Expo kullanılarak geliştirilmiş bir profil kartı uygulamasıdır.  
 Uygulamada tema değiştirme, özel font kullanımı ve duyarlı (responsive) tasarım özellikleri bulunmaktadır.
 
-Kullanılan Teknolojiler
+##Kullanılan Teknolojiler
 
 -React Native
 
@@ -19,7 +19,7 @@ Kullanılan Teknolojiler
 -Ionicons
 
 
-Özellikler
+##Özellikler
 
 -Açık / Koyu tema desteği
 
@@ -32,7 +32,7 @@ Kullanılan Teknolojiler
 -Cross-platform gölge desteği
 
 
-Projeyi Çalıştırma
+##Projeyi Çalıştırma
 
 Expo Go uygulaması ile QR kod okutularak çalıştırılabilir.
 
