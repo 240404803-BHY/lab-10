@@ -8,7 +8,7 @@ Okul No: 240404803
 Bu proje, React Native ve Expo kullanılarak geliştirilmiş bir profil kartı uygulamasıdır.  
 Uygulamada tema değiştirme, özel font kullanımı ve duyarlı (responsive) tasarım özellikleri bulunmaktadır.
 
-##Kullanılan Teknolojiler
+#Kullanılan Teknolojiler
 
 -React Native
 
@@ -19,7 +19,7 @@ Uygulamada tema değiştirme, özel font kullanımı ve duyarlı (responsive) ta
 -Ionicons
 
 
-##Özellikler
+#Özellikler
 
 -Açık / Koyu tema desteği
 
@@ -32,7 +32,7 @@ Uygulamada tema değiştirme, özel font kullanımı ve duyarlı (responsive) ta
 -Cross-platform gölge desteği
 
 
-##Projeyi Çalıştırma
+#Projeyi Çalıştırma
 
 Expo Go uygulaması ile QR kod okutularak çalıştırılabilir.
 
